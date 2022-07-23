@@ -9,7 +9,7 @@ theme = "spectral"
 fancyTitle = "Beyond The Software" # title for frontpage, may include image
 copyright = "Darrin Braun"
 description = 'It is about the people who run your business everyday.<br /> We go beyond the software, empowering your team <br/ > to efficiently and profitably operate the business.'
-startbuttonText = "Activate"
+startbuttonText = "Read on"
 startbuttonLink = "#"
 body_is_markdown = true
 #custom_css = "foo.css"
@@ -30,43 +30,42 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'What you can expect'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+We will work with your leadership team to develop a plan. Review and understand, develop a strategy, communicate, execute. Revist these as project moves forward.
 '''
 
 [[params.one.icon]]
 icon = "fa-diamond"
 style = "1"
-label = "Lorem"
+label = "Quality"
 
 [[params.one.icon]]
 icon = "fa-heart-o"
 style = "2"
-label = "Ipsum"
+label = "Love"
 
 [[params.one.icon]]
 icon = "fa-code"
 style = "3"
-label = "Dolor"
+label = "Code"
 
 [params.two]
 enable = true
 
 [[params.two.section]]
 img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Develop a Strategy'
+body = 'Utilizing existing knowledge and insignt...'
 
 [[params.two.section]]
 img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Communicate our intent<br />elementum magna'
+body = 'Clearly communicate intent... Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
 img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
+title = 'Execute on that clearly communicated plan<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [params.three]
