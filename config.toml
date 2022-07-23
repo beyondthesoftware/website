@@ -6,7 +6,7 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Beyond The Software" # title for frontpage, may include image
+fancyTitle = "//////UNDER CONSTRUCTION//////" # title for frontpage, may include image
 copyright = "Darrin Braun"
 description = 'It is about the people who run your business everyday.<br /> We go beyond the software, empowering your team <br/ > to efficiently and profitably operate the business.'
 startbuttonText = "Read on"
