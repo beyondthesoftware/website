@@ -6,7 +6,7 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "//////UNDER CONSTRUCTION//////" # title for frontpage, may include image
+fancyTitle = "Beyond the Software" # title for frontpage, may include image
 copyright = "Darrin Braun"
 description = 'This website is currently under construction. Please try again in a few days. Unless you like gibberish.'
 startbuttonText = "Read on"
