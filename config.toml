@@ -54,7 +54,7 @@ label = "Code"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
+img = "download.jpeg"
 title = 'Develop a Strategy'
 body = 'Utilizing existing knowledge and insignt...'
 
