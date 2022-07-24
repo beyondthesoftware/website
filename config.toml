@@ -14,6 +14,7 @@ startbuttonLink = "#"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
+favicon = “/favicon.ico” # Path to favicon file
 
 [[params.menu.main]]
 url = '/'
