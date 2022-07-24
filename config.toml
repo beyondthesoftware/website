@@ -54,7 +54,7 @@ label = "Code"
 enable = true
 
 [[params.two.section]]
-img = "beyondthesoftware.com/download.jpeg"
+img = "https://raw.githubusercontent.com/beyondthesoftware/website/master/download.jpeg"
 title = 'Develop a Strategy'
 body = 'Utilizing existing knowledge and insignt...'
 
