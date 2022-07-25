@@ -35,7 +35,7 @@ enable = true
 title = 'Keep Scrolling!'
 body = '''
 |
-<br></br>
+<br>
 v
 '''
 
