@@ -37,20 +37,7 @@ body = '''
 ⬇
 '''
 
-[[params.one.icon]]
-icon = "fa-diamond"
-style = "1"
-label = "Quality"
 
-[[params.one.icon]]
-icon = "fa-heart-o"
-style = "2"
-label = "Love"
-
-[[params.one.icon]]
-icon = "fa-code"
-style = "3"
-label = "Code"
 
 [params.two]
 enable = true
