@@ -120,7 +120,7 @@ special = true
 
 [[params.cta.link]]
 href = "#"
-text = "Learn More"
+text = "Test"
 special = false
 
 [params.contact]
