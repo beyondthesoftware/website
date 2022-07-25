@@ -32,9 +32,9 @@ title = "Posts"
 #             v
 [params.one]
 enable = true
-title = 'Keep Scrolling!'
-body = '''
-⬇
+title = '⬇'
+body = '''#v----- type here
+
 '''
 
 [params.contact]
@@ -42,7 +42,7 @@ enable = true
 title = "Contact"
 body = "Leave us a message."
 phone = "+12622366716"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+address = "Pewaukee, Wi USA"
 email = "darrin@beyondthesoftware.com"
 subject = "New Submission!"
 plain = false
