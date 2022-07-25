@@ -34,9 +34,7 @@ title = "Posts"
 enable = true
 title = 'Keep Scrolling!'
 body = '''
-|
-<br>
-v
+|<br />v
 '''
 
 [[params.one.icon]]
