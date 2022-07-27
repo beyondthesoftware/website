@@ -34,7 +34,7 @@ title = "Posts"
 enable = true
 title = '⬇'
 body = '''
-<a href='google.com'>TEST</a>
+..
 '''
 
 [params.contact]
