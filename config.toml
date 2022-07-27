@@ -18,10 +18,10 @@ body_is_markdown = true
 [[params.menu.main]]
 url = '/'
 title = "Home"
-
-[[params.menu.main]]
-url = '/Posts/index.html'
-title = "Posts"
+#un-comment + edit later
+#[[params.menu.main]]
+#url = '/Posts/index.html'
+#title = "Posts"
 
 [taxonomies]
     tag = "tags"
@@ -34,7 +34,7 @@ title = "Posts"
 enable = true
 title = '⬇'
 body = '''
-..
+Hi, I am going to <a href="#contact">test</a> something
 '''
 
 [params.contact]
