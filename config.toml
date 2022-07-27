@@ -34,7 +34,7 @@ title = "Home"
 enable = true
 title = '⬇'
 body = '''
-Hi, I am going to <a href="#contact">test</a> something
+..
 '''
 
 [params.contact]
