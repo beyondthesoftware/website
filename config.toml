@@ -43,7 +43,11 @@ body = '''
 [params.contact]
 enable = true
 title = "Contact"
-body = "Leave us a message."
+body = '<form action="https://formspree.io/f/{form_id}" method="post">
+  <label for="email">Your Email</label>
+  <input name="Email" id="email" type="email">
+  <button type="submit">Submit</button>
+</form>'
 phone = "+12622366716"
 address = "Pewaukee, Wi USA"
 email = "darrin@beyondthesoftware.com"
