@@ -33,9 +33,9 @@ title = "Home"
 [params.one]
 enable = true
 title = '⬇'
-body = '''
-..
-'''
+body = ''
+<a href="#contact">Contact</a>
+''
 
 [params.contact]
 enable = true
@@ -45,7 +45,7 @@ phone = "+12622366716"
 address = "Pewaukee, Wi USA"
 email = "darrin@beyondthesoftware.com"
 subject = "New Submission!"
-plain = true
+plain = false
 
 [params.social]
 twitter = ""
