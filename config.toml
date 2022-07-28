@@ -33,9 +33,9 @@ title = "Home"
 [params.one]
 enable = true
 title = '⬇'
-body = ''
-<a href="#contact">Contact</a>
-''
+body = '''
+..
+'''
 
 [params.contact]
 enable = true
