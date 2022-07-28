@@ -45,7 +45,7 @@ phone = "+12622366716"
 address = "Pewaukee, Wi USA"
 email = "darrin@beyondthesoftware.com"
 subject = "New Submission!"
-plain = false
+plain = true
 
 [params.social]
 twitter = ""
