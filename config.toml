@@ -23,8 +23,8 @@ title = "Home"
 #url = '/Posts/index.html'
 #title = "Posts"
 [[params.menu.main]]
-url = 'https://google.com'
-title = "Google"
+url = 'https://www.linkedin.com/in/darrinbraun/'
+title = "[In]"
 
 [taxonomies]
     tag = "tags"
