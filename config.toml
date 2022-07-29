@@ -43,11 +43,14 @@ body = '''
 [params.contact]
 enable = true
 title = "Contact"
-body = "<https://share.hsforms.com/1mV0s4TY8Sp25sTnye0vuXwdb71o>
-  <label for='email'>Your Email</label>
-  <input name='Email' id='email' type='email'>
-  <button type='submit'>Submit</button>
-</form>"
+body = "<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "na1",
+    portalId: "22357356",
+    formId: "995d2ce1-363c-4a9d-b9b1-39f27b4bee5f"
+  });
+</script>"
 phone = "+12622366716"
 address = "Pewaukee, Wi USA"
 email = "darrin@beyondthesoftware.com"
