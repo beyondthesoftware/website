@@ -24,7 +24,7 @@ title = "Home"
 #title = "Posts"
 [[params.menu.main]]
 url = 'https://www.linkedin.com/in/darrinbraun/'
-title = "[In]"
+title = "[About]"
 
 [taxonomies]
     tag = "tags"
