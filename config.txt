@@ -18,3 +18,11 @@ label = "Love"
 icon = "fa-code"
 style = "3"
 label = "Code"
+
+[[params.two]]
+enable = true
+title = 'Test'
+body = '''
+hi!
+'''
+
