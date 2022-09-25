@@ -35,7 +35,14 @@ title = "About"
 #             v
 [params.one]
 enable = true
-title = '⬇'
+title = 'Our Proccess'
+body = '''
+We will work with your leadership team to develop a plan. Review and understand, develop a strategy, communicate, execute. Revist these as project moves forward.
+'''
+
+[params.two]
+enable = true
+title = 'Aspire Corner'
 body = '''
 ..
 '''
