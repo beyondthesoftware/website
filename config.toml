@@ -37,7 +37,7 @@ title = "About"
 enable = true
 title = 'Our Proccess'
 body = '''
-We will work with key stakeholders of your company to learn your current processes, so we can understand your company, and develop a Strategy that can be implemented to integrate with your business management system.   
+We work with key stakeholders to understand the current processes in your company. With this understanding and buy in from key stakeholders, we develop a Strategy, communicate it, and execute on it. The process is designed to bring together your people, processees, and technology. The benefit is happier employees and clients, while improving the financial health an longevity of your business.
 '''
 
 [params.two]
