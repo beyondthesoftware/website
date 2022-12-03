@@ -37,7 +37,7 @@ title = "About"
 enable = true
 title = 'Our Proccess'
 body = '''
-We work with key stakeholders to understand the current processes in your company. With this understanding and buy in, we develop a strategy, communicate it, and execute on it. The process is designed to bring together your people, processees, and technology. The benefit is happier employees and clients, while improving the financial health an longevity of your business.
+We work with key stakeholders to understand the current processes in your company. With this understanding and buy in, we develop a strategy, communicate it, and execute on it. The process is designed to bring together your people, processees, and technology. The benefit is happier employees and clients, while improving the financial health and longevity of your business.
 '''
 
 [params.two]
