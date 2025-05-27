@@ -27,9 +27,8 @@ url = 'https://www.linkedin.com/in/darrinbraun/'
 title = "About"
 
 [[params.menu.main]]
-enable = false
 url = "/audit/"
-title = "Audit"
+title = ""
 
 [taxonomies]
     tag = "tags"
