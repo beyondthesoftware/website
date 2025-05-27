@@ -26,6 +26,10 @@ title = "Home"
 url = 'https://www.linkedin.com/in/darrinbraun/'
 title = "About"
 
+[[params.menu.main]]
+url = "/audit/"
+title = "Audit"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
