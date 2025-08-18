@@ -30,6 +30,10 @@ title = "About"
 url = "/audit/"
 title = ""
 
+[[params.menu.main]]
+url = "/yotoai/"
+title = ""
+
 [taxonomies]
     tag = "tags"
     category = "categories"
