@@ -32,7 +32,7 @@ title = ""
 
 [[params.menu.main]]
 url = "/yotoai/"
-title = ""
+title = "Yoto AI"
 
 [taxonomies]
     tag = "tags"
