@@ -1,3 +1,4 @@
+---
 title: "Welcome to YotoAI"
 description: "This is an assistant for your yoto."
 menu: main
