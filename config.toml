@@ -27,11 +27,11 @@ url = 'https://www.linkedin.com/in/darrinbraun/'
 title = "About"
 
 [[params.menu.main]]
-url = "/audit/"
+url = "/momentum-lab/"
 title = ""
 
 [[params.menu.main]]
-url = "/yotoai/"
+url = "/audit/"
 title = ""
 
 [taxonomies]
