@@ -48,4 +48,62 @@ Hands-on sprints (not another webinar). We pick one practical theme and move it 
 - Leaders who value action over noise
 
 **Time & Deliverables**  
-Expect **1–2 hrs/week** for calls and materials. You’ll get: weekly interaction with facilitators and peers, two concise email
+Expect **1–2 hrs/week** for calls and materials. You’ll get: weekly interaction with facilitators and peers, two concise emails per week, resource pack (templates, SOP starters, list/report definitions), and light accountability.
+
+---
+
+## Topics & cadence
+
+We rotate high-impact operations topics across the year—one per month.  
+Have a request? Tell us below when you apply.
+
+- Upcoming examples: Renewals (Beginner), Year-End Cleanup, Roles & Permissions, Reporting Scorecards, Sales→Ops Handoffs
+
+---
+
+## Pricing
+
+Each sprint is **$500–$1,000 per company** (point person included; assets are shareable internally).  
+Pricing varies by scope and resources included. Limited early-access spots may be offered.
+
+---
+
+## FAQ
+
+**Is this training?**  
+It’s guided doing—short teaching, then action.
+
+**Do I need advanced Aspire skills?**  
+No. We label sprints by level and keep instructions step-by-step.
+
+**What if I fall behind?**  
+You’ll get the resources, replays, and a checklist to finish.
+
+---
+
+## Ready to build momentum? {#apply}
+
+Fill this out and we’ll follow up with details.
+
+<!-- If deployed on Netlify, this form will work out of the box. -->
+<form name="momentum-lab-interest" method="POST" data-netlify="true">
+  <input type="hidden" name="form-name" value="momentum-lab-interest" />
+  <p><label>Name<br><input type="text" name="name" required></label></p>
+  <p><label>Company<br><input type="text" name="company"></label></p>
+  <p><label>Email<br><input type="email" name="email" required></label></p>
+  <p><label>Interest level<br>
+    <select name="interest" required>
+      <option value="">Select…</option>
+      <option>Join the mailing list</option>
+      <option>I’m interested—tell me more</option>
+      <option>I’m ready to enroll (invoice me)</option>
+    </select>
+  </label></p>
+  <p><label>Topics you’d like covered (optional)<br>
+    <input type="text" name="topics" placeholder="e.g., renewals, year-end cleanup, roles & permissions">
+  </label></p>
+  <p><label>Comments (optional)<br><textarea name="comments" rows="4"></textarea></label></p>
+  <p><button type="submit">Submit</button></p>
+  <p><small>We’ll never share your email. Unsubscribe anytime.</small></p>
+</form>
+
