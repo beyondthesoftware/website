@@ -4,7 +4,6 @@ description: "Hands-on, 4-week sprints for Aspire teams. One focus. Clear steps.
 menu: main
 weight: 3
 ---
-
 # Build momentum, not overwhelm.
 
 **The Momentum Lab** is a series of focused, 4-week sprints for Aspire teams. Less noise, more action: learn, apply, repeat—until progress is a habit.
