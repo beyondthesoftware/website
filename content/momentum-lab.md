@@ -1,95 +1,110 @@
 ---
 title: "Momentum Lab"
-description: "Hands-on, 4-week sprints for Aspire teams. One focus. Clear steps. Real progress—without the overwhelm."
+description: "Build real progress in Aspire—one focused sprint at a time."
+url: "/momentum-lab/"
 menu: main
 weight: 3
 ---
 
-# Build momentum, not overwhelm.
+# Momentum Lab: Build Real Progress in Aspire—One Sprint at a Time
 
-**Momentum Lab** is a series of focused, 4-week sprints for Aspire teams. Less noise, more action: learn, apply, repeat—until progress is a habit.
+Stop putting it off. Start building momentum.  
+If there’s a part of Aspire you’ve been meaning to set up or fix but just haven’t gotten around to it, this is your opportunity to own it. Your company depends on you to make it work.
 
-- **One focus at a time** so it’s doable  
-- **Step-by-step plan** so there’s no guesswork  
-- **Peer energy + facilitator support** so you finish  
-- **Mini playbook** you keep at the end
-
-[Join the interest list](#apply) · [How it works](#how-it-works)
+**Momentum Lab is where talk turns into traction.**  
+No fluff. No webinars you half-watch. Just structured, hands-on execution with a group that’s here to get it done.
 
 ---
 
-## What it is
+## Why Momentum Lab
 
-Hands-on sprints (not another webinar). We pick one practical theme and move it from *“we should do that”* to *done*.
+Aspire can feel overwhelming. You’re not alone.  
+But overwhelm isn’t the problem—**staying stuck is**.
 
-- One focus per month (Beginner / Intermediate / Advanced labeled)  
-- Group kickoff, working sessions, and a 1:1 checkpoint  
-- Monday “do this next” email + Thursday check-in  
-- Templates, SOP starters, lists/reports you can customize
+We strip it down to focus on one thing at a time:
 
----
+- Simplify your focus  
+- Make incremental progress  
+- Build momentum that snowballs  
 
-## How it works {#how-it-works}
-
-1. **Kickoff (group):** align goals, pick your finish line  
-2. **Working sessions / office hours:** get help and make live progress  
-3. **1:1 checkpoint:** clear roadblocks  
-4. **Weekly emails:** Monday playbook + Thursday check-in  
-5. **End-of-sprint:** mini playbook (PDF) and next-step plan
-
-> “You don’t need more information—you need a plan you’ll actually follow.”
+These are **hands-on implementation sprints**, not another training or webinar. You’ll roll up your sleeves and make real improvements inside Aspire with a small group doing the same thing right alongside you.
 
 ---
 
-## Who it’s for
+## This isn’t training. It’s action.
 
-- Aspire teams new or seasoned (clear labels for skill level)  
-- A designated point person (AM/SM/Ops lead). Others can join working sessions.  
-- Leaders who value action over noise
+Aspire’s complexity can make everything feel important at once. Momentum Lab helps you cut through the noise and focus on the next most impactful thing.
 
-**Time & Deliverables**  
-Expect **1–2 hrs/week** for calls and materials. You’ll get: weekly interaction with facilitators and peers, two concise emails per week, resource pack (templates, SOP starters, list/report definitions), and light accountability.
+Each sprint is built around a simple idea: **learn → apply → repeat**.  
+Two out of three won’t get you there. Momentum Lab gives you all three—on a deadline.
 
----
-
-## Topics & cadence
-
-We rotate high-impact operations topics across the year—one per month.  
-Have a request? Tell us below when you apply.
-
-- Upcoming examples: Renewals (Beginner), Year-End Cleanup, Roles & Permissions, Reporting Scorecards, Sales→Ops Handoffs
+**Every sprint includes:**
+- Weekly calls with facilitators and peers who’ve been there
+- Two action emails per week
+- Group interaction for quick questions and accountability
+- Templates, SOPs, and reports you can actually use
+- Optional 1:1 support (for an additional fee)
 
 ---
 
-## Pricing
+## Who It’s For
 
-Each sprint is **$500–$1,000 per company** (point person included; assets are shareable internally).  
-Pricing varies by scope and resources included. Limited early-access spots may be offered.
+If you’re ready to turn knowledge into action and carve out time to win, join us.  
+Ideal for beginner–intermediate Aspire users (advanced users often join for accountability + polish).  
+You’ll be the point person for your company/branch—and your whole team will feel the ripple effect.
 
----
-
-## FAQ
-
-**Is this training?**  
-It’s guided doing—short teaching, then action.
-
-**Do I need advanced Aspire skills?**  
-No. We label sprints by level and keep instructions step-by-step.
-
-**What if I fall behind?**  
-You’ll get the resources, replays, and a checklist to finish.
+**Time commitment:** Plan for 1–2 hours/week for calls + content.  
+No shortcuts—just guided structure and accountability that deliver results.
 
 ---
 
-## Ready to build momentum? {#apply}
+## Upcoming Sprints
 
-Fill this out and we’ll follow up with details.
+We’re starting where it counts—time-sensitive, high-impact topics first.
 
-<div class="hs-form-frame"
-     data-region="na1"
-     data-form-id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1"
-     data-portal-id="22357356"></div>
+- **November 2025:** [Renewal Season Reboot: Lock in Easy, Repeatable Revenue](/momentum-lab/november-renewals/)
+- **December 2025:** Operation Clean Slate — *Coming soon*
+- **January 2026:** Lines in the Sand (Roles, Clarity & Accountability) — *Coming soon*
 
-<script src="https://js.hsforms.net/forms/embed/22357356.js" defer></script>
+*Have a topic you want covered? Tell us what you’re struggling with in the form below.*
 
+---
 
+## Investment
+
+Each sprint runs **$500–$2,000**, depending on topic length and complexity.  
+We’re offering **beta pricing** for early participants—a chance to join early, give feedback, and help define the future of Momentum Lab.
+
+Not for looky-loos. This is for people who know the ROI of momentum.  
+You’re not paying for information—you’re paying to **unlock it**.
+
+---
+
+## Why It Works
+
+Because we do it **together**.
+
+By the end of a sprint, you’ll have:
+- A specific Aspire process built, cleaned, or fixed  
+- A repeatable framework you can use again  
+- Confidence from crushing your goal  
+
+Real change takes time—but it starts with one focused step.
+
+---
+
+## Ready to Build Momentum?
+
+Choose your level in the form below and we’ll follow up with next steps.
+
+{{< hsform portal_id="22357356" form_id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1" >}}
+
+---
+
+### About Momentum Lab
+
+Momentum Lab is powered by Aspire consultants **Darrin Braun** (https://www.linkedin.com/in/darrinbraun/) and **Paula Suda** (https://www.linkedin.com/in/paula-suda/) - people who’ve seen every size of company wrestle with the same problems, from $1M startups to $100M powerhouses.
+
+We’re done keeping the good stuff locked away in 1:1 consulting. Momentum Lab scales what works—the shortcuts, the clarity, the real progress.
+
+Aspire is powerful—but it’s a beast. You don’t have to tackle it solo. We believe in the social side of getting things done, where momentum builds faster and wins stick longer.
