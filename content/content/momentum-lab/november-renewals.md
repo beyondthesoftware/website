@@ -1,7 +1,7 @@
 ---
 title: "Momentum Lab — November Sprint: Maintenance Contract Renewals"
 description: "4-week small-group execution sprint to lock in maintenance renewals in Aspire. Hands-on, focused, results."
-slug: "momentum-lab-november-renewals"
+slug: "momentum-lab/november-renewals"
 menu: main
 weight: 3
 ---
