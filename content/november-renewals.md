@@ -73,12 +73,28 @@ We don’t talk about progress—we **measure** it.
 
 ## Ready to Lock In Your Renewals?
 
-<div class="hs-form-frame"
-     data-region="na1"
-     data-form-id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1"
-     data-portal-id="22357356"></div>
+<div id="hs-form-momentum" style="margin-top:1.5rem"></div>
 
-<script src="https://js.hsforms.net/forms/embed/22357356.js" defer></script>
+{% raw %}
+<script type="text/javascript" src="https://js.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  // Ensure HubSpot renders after the page loads
+  (function renderHS(){
+    if (window.hbspt && window.hbspt.forms && window.hbspt.forms.create) {
+      hbspt.forms.create({
+        region: "na1",
+        portalId: "22357356",
+        formId: "6b9f7553-ade9-4cce-b72a-bb83b3dd60a1",
+        target: "#hs-form-momentum"
+      });
+    } else {
+      // Retry briefly if script hasn’t initialized yet
+      setTimeout(renderHS, 100);
+    }
+  })();
+</script>
+{% endraw %}
+
 
 
 ---
