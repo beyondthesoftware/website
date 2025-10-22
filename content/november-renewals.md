@@ -12,7 +12,7 @@ It’s renewal season – and the clock is ticking.
 
 Maintenance contracts are the backbone of your business—the steady, reliable revenue that keeps everything running. But if it’s closing in on the end of October and your January 1 renewals aren’t already in motion, you’re officially in **crunch time**.
 
-You don’t have time to overthink this—you’ve got to move.  
+You don’t have time to overthink this, you’ve got to move.  
 
 That’s where **Momentum Lab** comes in. We’ll walk you through exactly what to do, in what order, so you stop scrambling and start locking in revenue for the year ahead.  
 **No chaos. No guesswork. Just clarity, action, and results.**
@@ -58,7 +58,7 @@ Turn your wins into systems. Together, we’ll document SOPs, refine best practi
 
 **$599 (beta pricing)**
 
-A fraction of what one lost renewal is worth—and the start of a smoother, more profitable renewal season.
+A fraction of what one lost renewal is worth, and the start of a smoother, more profitable renewal season.
 
 ---
 
@@ -68,7 +68,7 @@ Most Aspire problems aren’t technical. They’re human.
 Information isn’t the problem. **Execution is.** Too many priorities. Too little time. No finish line.
 
 Momentum Lab fixes that by forcing focus: **one goal, one month, real accountability.**  
-We don’t talk about progress—we **measure** it.
+We don’t talk about progress, we **measure** it.
 
 ---
 
