@@ -1,12 +1,11 @@
 ---
 title: "Momentum Lab"
-description: "Build real progress in Aspire—one focused sprint at a time."
 url: "/momentum-lab/"
 menu: main
 weight: 3
 ---
 
-# Momentum Lab: Build Real Progress in Aspire—One Sprint at a Time
+## Momentum Lab: Build Real Progress in Aspire — One Sprint at a Time
 
 Stop putting it off. Start building momentum.  
 If there’s a part of Aspire you’ve been meaning to set up or fix but just haven’t gotten around to it, this is your opportunity to own it. Your company depends on you to make it work.
@@ -19,7 +18,7 @@ No fluff. No webinars you half-watch. Just structured, hands-on execution with a
 ## Why Momentum Lab
 
 Aspire can feel overwhelming. You’re not alone.  
-But overwhelm isn’t the problem—**staying stuck is**.
+But overwhelm isn’t the problem, **staying stuck is**.
 
 We strip it down to focus on one thing at a time:
 
