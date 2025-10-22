@@ -1,12 +1,12 @@
 ---
-title: "Momentum Lab - November Sprint: Maintenance Contract Renewals"
+title: "Momentum Lab - November Sprint"
 url: "/momentum-lab/november-renewals/"
 menu: main
 weight: 3
 ---
 
 ## November Sprint: Maintenance Contract Renewals
-"A 4-week, hands-on execution sprint to lock in renewal revenue before year-end."
+A 4-week, hands-on execution sprint to lock in renewal revenue before year-end.
 
 It’s renewal season – and the clock is ticking.
 
