@@ -28,7 +28,7 @@ title = "About"
 
 [[params.menu.main]]
 url = "/momentum-lab/"
-title = ""
+title = "Momentum Lab"
 
 [[params.menu.main]]
 url = "/momentum-lab/november-renewals/"
