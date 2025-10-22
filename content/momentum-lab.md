@@ -1,5 +1,5 @@
 ---
-title: "The Momentum Lab"
+title: "Momentum Lab"
 description: "Hands-on, 4-week sprints for Aspire teams. One focus. Clear steps. Real progress—without the overwhelm."
 menu: main
 weight: 3
@@ -7,7 +7,7 @@ weight: 3
 
 # Build momentum, not overwhelm.
 
-**The Momentum Lab** is a series of focused, 4-week sprints for Aspire teams. Less noise, more action: learn, apply, repeat—until progress is a habit.
+**Momentum Lab** is a series of focused, 4-week sprints for Aspire teams. Less noise, more action: learn, apply, repeat—until progress is a habit.
 
 - **One focus at a time** so it’s doable  
 - **Step-by-step plan** so there’s no guesswork  
@@ -85,25 +85,11 @@ You’ll get the resources, replays, and a checklist to finish.
 
 Fill this out and we’ll follow up with details.
 
-<!-- If deployed on Netlify, this form will work out of the box. -->
-<form name="momentum-lab-interest" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="momentum-lab-interest" />
-  <p><label>Name<br><input type="text" name="name" required></label></p>
-  <p><label>Company<br><input type="text" name="company"></label></p>
-  <p><label>Email<br><input type="email" name="email" required></label></p>
-  <p><label>Interest level<br>
-    <select name="interest" required>
-      <option value="">Select…</option>
-      <option>Join the mailing list</option>
-      <option>I’m interested—tell me more</option>
-      <option>I’m ready to enroll (invoice me)</option>
-    </select>
-  </label></p>
-  <p><label>Topics you’d like covered (optional)<br>
-    <input type="text" name="topics" placeholder="e.g., renewals, year-end cleanup, roles & permissions">
-  </label></p>
-  <p><label>Comments (optional)<br><textarea name="comments" rows="4"></textarea></label></p>
-  <p><button type="submit">Submit</button></p>
-  <p><small>We’ll never share your email. Unsubscribe anytime.</small></p>
-</form>
+<div class="hs-form-frame"
+     data-region="na1"
+     data-form-id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1"
+     data-portal-id="22357356"></div>
+
+<script src="https://js.hsforms.net/forms/embed/22357356.js" defer></script>
+
 
