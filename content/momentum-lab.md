@@ -97,7 +97,11 @@ Real change takes time—but it starts with one focused step.
 
 Choose your level in the form below and we’ll follow up with next steps.
 
-{{< hsform portal_id="22357356" form_id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1" >}}
+{{< hsform region="na1" portal="22357356" form="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1" >}}
+
+<noscript>
+  JavaScript is required to load the signup form. Please email <a href="mailto:darrin@beyondthesoftware.com">darrin@beyondthesoftware.com</a>.
+</noscript>
 
 ---
 
