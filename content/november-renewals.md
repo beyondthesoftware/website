@@ -71,25 +71,17 @@ We don’t talk about progress—we **measure** it.
 
 ---
 
+---
+
 ## Ready to Lock In Your Renewals?
 
-<div id="hs-form-momentum" style="margin-top:1.5rem"></div>
+Choose your level and reserve your spot below. Registration is capped at 10 companies.
 
-<script type="text/javascript" src="https://js.hsforms.net/forms/embed/v2.js"></script>
-<script>
-  (function renderHS(){
-    if (window.hbspt && window.hbspt.forms && window.hbspt.forms.create) {
-      hbspt.forms.create({
-        region: "na1",
-        portalId: "22357356",
-        formId: "6b9f7553-ade9-4cce-b72a-bb83b3dd60a1",
-        target: "#hs-form-momentum"
-      });
-    } else {
-      setTimeout(renderHS, 100);
-    }
-  })();
-</script>
+{{< hsform region="na1" portal="22357356" form="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1" >}}
+
+<noscript>
+  JavaScript is required to load the signup form. Please email <a href="mailto:darrin@beyondthesoftware.com">darrin@beyondthesoftware.com</a>.
+</noscript>
 
 ---
 
