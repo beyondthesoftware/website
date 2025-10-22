@@ -13,6 +13,7 @@ It’s renewal season – and the clock is ticking.
 Maintenance contracts are the backbone of your business—the steady, reliable revenue that keeps everything running. But if it’s closing in on the end of October and your January 1 renewals aren’t already in motion, you’re officially in **crunch time**.
 
 You don’t have time to overthink this—you’ve got to move.  
+
 That’s where **Momentum Lab** comes in. We’ll walk you through exactly what to do, in what order, so you stop scrambling and start locking in revenue for the year ahead.  
 **No chaos. No guesswork. Just clarity, action, and results.**
 
