@@ -31,6 +31,10 @@ url = "/momentum-lab/"
 title = ""
 
 [[params.menu.main]]
+url = "/momentum-lab/november-renewals"
+title = ""
+
+[[params.menu.main]]
 url = "/audit/"
 title = ""
 
