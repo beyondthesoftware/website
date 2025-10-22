@@ -71,8 +71,6 @@ We don’t talk about progress—we **measure** it.
 
 ---
 
----
-
 ## Ready to Lock In Your Renewals?
 
 Choose your level and reserve your spot below. Registration is capped at 10 companies.
