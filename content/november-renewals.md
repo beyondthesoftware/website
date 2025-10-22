@@ -71,12 +71,15 @@ We don’t talk about progress—we **measure** it.
 
 ---
 
-## Ready to lock in your renewals?
+## Ready to Lock In Your Renewals?
 
-<div id="signup">
+<div class="hs-form-frame"
+     data-region="na1"
+     data-form-id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1"
+     data-portal-id="22357356"></div>
+
 <script src="https://js.hsforms.net/forms/embed/22357356.js" defer></script>
-<div class="hs-form-frame" data-region="na1" data-form-id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1" data-portal-id="22357356"></div>
-</div>
+
 
 ---
 
