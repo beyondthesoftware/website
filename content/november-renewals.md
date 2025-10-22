@@ -75,10 +75,8 @@ We don’t talk about progress—we **measure** it.
 
 <div id="hs-form-momentum" style="margin-top:1.5rem"></div>
 
-{% raw %}
 <script type="text/javascript" src="https://js.hsforms.net/forms/embed/v2.js"></script>
 <script>
-  // Ensure HubSpot renders after the page loads
   (function renderHS(){
     if (window.hbspt && window.hbspt.forms && window.hbspt.forms.create) {
       hbspt.forms.create({
@@ -88,14 +86,10 @@ We don’t talk about progress—we **measure** it.
         target: "#hs-form-momentum"
       });
     } else {
-      // Retry briefly if script hasn’t initialized yet
       setTimeout(renderHS, 100);
     }
   })();
 </script>
-{% endraw %}
-
-
 
 ---
 
