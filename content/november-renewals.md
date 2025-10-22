@@ -1,6 +1,5 @@
 ---
-title: "Momentum Lab
-November Sprint: Maintenance Contract Renewals"
+title: "Momentum Lab - November Sprint: Maintenance Contract Renewals"
 description: "A 4-week, hands-on execution sprint to lock in renewal revenue before year-end."
 url: "/momentum-lab/november-renewals/"
 menu: main
@@ -43,7 +42,7 @@ Now it’s time to move. We’ll map out who does what, when, and why, so everyo
 If you can’t see progress, you’ll lose momentum. We’ll build your renewal scoreboard to track the metrics that show what’s working and what’s lagging. Includes a private **1:1** call with a facilitator for laser feedback.
 
 ### Week 4 — Lock It In
-Turn your wins into systems. We’ll document SOPs, refine best practices, and lock in what’s working so you’re ready to rinse and repeat next year. Includes a second group work session.
+Turn your wins into systems. Together, we’ll document SOPs, refine best practices, and lock in what’s working so you’re ready to rinse and repeat next year. Includes a second group work session.
 
 ---
 
@@ -74,22 +73,9 @@ We don’t talk about progress—we **measure** it.
 
 ## Ready to lock in your renewals?
 
-**Choose your level:**
-
-- **Join the Mailing List** – stay in the loop  
-- **I’m Interested — Tell Me More** – get details on upcoming sprints  
-- **I’m Ready to Sign Up** – invoice me and lock in my spot
-
-### Sign Up
-
-**Name**  
-**Company**  
-**Email**  
-**Interest level** (choose one of the options above)  
-**Comments** (optional)
-
 <div id="signup">
-<!-- HubSpot form will be embedded here later -->
+<script src="https://js.hsforms.net/forms/embed/22357356.js" defer></script>
+<div class="hs-form-frame" data-region="na1" data-form-id="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1" data-portal-id="22357356"></div>
 </div>
 
 ---
