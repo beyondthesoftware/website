@@ -8,6 +8,7 @@ weight: 3
 ## Momentum Lab: Build Real Progress in Aspire — One Sprint at a Time
 
 Stop putting it off. Start building momentum.  
+
 If there’s a part of Aspire you’ve been meaning to set up or fix but just haven’t gotten around to it, this is your opportunity to own it. Your company depends on you to make it work.
 
 **Momentum Lab is where talk turns into traction.**  
