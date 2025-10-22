@@ -6,7 +6,7 @@ menu: main
 weight: 3
 ---
 
-# November Sprint: Maintenance Contract Renewals
+## November Sprint: Maintenance Contract Renewals
 
 It’s renewal season – and the clock is ticking.
 
