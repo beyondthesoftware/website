@@ -103,7 +103,7 @@ Choose your level in the form below and we’ll follow up with next steps.
 
 ### About Momentum Lab
 
-Momentum Lab is powered by Aspire consultants **Darrin Braun** (https://www.linkedin.com/in/darrinbraun/) and **Paula Suda** (https://www.linkedin.com/in/paula-suda/) - people who’ve seen every size of company wrestle with the same problems, from $1M startups to $100M powerhouses.
+Momentum Lab is powered by Aspire consultants **Darrin Braun** ([LinkedIn](https://www.linkedin.com/in/darrinbraun/)) and **Paula Suda** ([LinkedIn](https://www.linkedin.com/in/paula-suda/)) - people who’ve seen every size of company wrestle with the same problems, from $1M startups to $100M powerhouses.
 
 We’re done keeping the good stuff locked away in 1:1 consulting. Momentum Lab scales what works—the shortcuts, the clarity, the real progress.
 
