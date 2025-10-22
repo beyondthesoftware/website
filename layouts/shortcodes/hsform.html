@@ -1,0 +1,16 @@
+<div id="hs-form-{{ .Get "form" }}"></div>
+<script src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+(function renderHS(){
+  if (window.hbspt && hbspt.forms && hbspt.forms.create) {
+    hbspt.forms.create({
+      region: "{{ .Get "region" }}",
+      portalId: "{{ .Get "portal" }}",
+      formId: "{{ .Get "form" }}",
+      target: "#hs-form-{{ .Get "form" }}"
+    });
+  } else {
+    setTimeout(renderHS, 100);
+  }
+})();
+</script>
