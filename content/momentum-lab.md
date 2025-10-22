@@ -76,7 +76,7 @@ Each sprint runs **$500–$2,000**, depending on topic length and complexity.
 We’re offering **beta pricing** for early participants—a chance to join early, give feedback, and help define the future of Momentum Lab.
 
 Not for looky-loos. This is for people who know the ROI of momentum.  
-You’re not paying for information—you’re paying to **unlock it**.
+You’re not paying for information - you’re paying to **unlock it**.
 
 ---
 
