@@ -5,12 +5,12 @@ menu: main
 weight: 3
 ---
 
-## November Sprint: Maintenance Contract Renewals
+## November Sprint: Renewal Season Reboot: Lock In Easy, Repeatable Revenue
 A 4-week, hands-on execution sprint to lock in renewal revenue before year-end.
 
 It’s renewal season – and the clock is ticking.
 
-Maintenance contracts are the backbone of your business—the steady, reliable revenue that keeps everything running. But if it’s closing in on the end of October and your January 1 renewals aren’t already in motion, you’re officially in **crunch time**.
+Maintenance contracts are the backbone of your business: the steady, reliable revenue that keeps everything running. But if it’s closing in on the end of October and your January 1 renewals aren’t already in motion, you’re officially in **crunch time**.
 
 You don’t have time to overthink this, you’ve got to move.  
 
@@ -23,13 +23,13 @@ That’s where **Momentum Lab** comes in. We’ll walk you through exactly what 
 
 You’re headed into your first or second renewal season and want it to go smoother, faster, and with fewer headaches than last time.
 
-> To keep it tight and interactive, we’re capping registration at **10 companies**. If registration is full, join the waiting list.
+To keep it tight and interactive, we’re capping registration at **10 companies**. If registration is full, join the waiting list.
 
 ---
 
 ## What you’ll get
 
-When you register, you’ll receive the full sprint syllabus, two action emails per week, and a complete **PDF playbook** with all resources used during the sprint.
+You’ll receive the full sprint syllabus up front, calendar invites for the group sessions and a link to schedule your 1:1, two action emails per week, and a complete **PDF playbook** with all resources used during the sprint.
 
 **Highlights**
 
