@@ -53,7 +53,7 @@ If you’re ready to turn knowledge into action and carve out time to win, join 
 Ideal for beginner–intermediate Aspire users (advanced users often join for accountability + polish).  
 You’ll be the point person for your company/branch, but your whole team will feel the ripple effect.
 
-**Time commitment:** Plan for 1–2 hours/week for calls + content.  
+**Time commitment:** You'll get out of it what you put in. Expect at least 1–2 hours/week for calls + content. The work of completing your renewals will take longer if your list is long.
 No shortcuts, just guided structure and accountability that deliver results.
 
 ---
