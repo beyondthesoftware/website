@@ -19,7 +19,7 @@ That’s where **Momentum Lab** comes in. We’ll walk you through exactly what 
 
 ---
 
-## Is this for you?
+## This sprint is for you if...
 
 You’re headed into your first or second renewal season and want it to go smoother, faster, and with fewer headaches than last time.
 
@@ -34,7 +34,7 @@ You’ll receive the full sprint syllabus up front, calendar invites for the gro
 **Highlights**
 
 ### Week 1 — Get in the Game
-We jump right into the technical side of Aspire: the details, settings, and workflows that make renewals work (and what breaks them). Includes a group kickoff call to set targets and get you moving.
+We'll jump right into the technical side of Aspire: the details, settings, and workflows that make renewals work (and what breaks them). Includes a group kickoff call to set targets and get you moving.
 
 ### Week 2 — Eliminate Chaos to Execute
 Now it’s time to move. We’ll map out who does what, when, and why, so everyone knows their lane. If your team is prone to finger-pointing, this week fixes that fast. Includes a group work session.
