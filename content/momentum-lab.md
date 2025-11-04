@@ -63,7 +63,7 @@ No shortcuts, just guided structure and accountability that deliver results.
 We’re starting where it counts: time-sensitive, high-impact topics first.
 
 - **November 2025:** [Renewal Season Reboot: Lock in Easy, Repeatable Revenue](/momentum-lab/november-renewals/)
-- **December 2025:** Operation Clean Slate — *Coming soon*
+- **December 2025:** [Operation Clean Slate](/momentum-lab/december-cleanup/)
 - **January 2026:** Lines in the Sand (Roles, Clarity & Accountability) — *Coming soon*
 
 *Have a topic you want covered? Tell us what you’re struggling with in the form below.*
