@@ -102,3 +102,15 @@ Give yourself the same respect you give your clients.
 
 ## Ready to Lock In Your Renewals?
 
+Choose your level and reserve your spot below. Registration is capped at 10 companies.
+
+{{< hsform region="na1" portal="22357356" form="6b9f7553-ade9-4cce-b72a-bb83b3dd60a1" >}}
+
+<noscript>
+  JavaScript is required to load the signup form. Please email <a href="mailto:darrin@beyondthesoftware.com">darrin@beyondthesoftware.com</a>.
+</noscript>
+
+---
+
+_Questions or want to suggest a topic?_ Tell us what you’re struggling with most right now—we’re building the next sprints around real-world needs.
+
