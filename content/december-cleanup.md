@@ -1,3 +1,11 @@
+---
+title: "Momentum Lab - December Sprint"
+url: "/momentum-lab/december-cleanup/"
+menu: main
+weight: 3
+---
+
+
 # December Sprint: Operation Clean Slate  
 ### Put 2025 to Bed (and Set Up 2026 to Win)
 
@@ -19,12 +27,12 @@ Because talking about cleanup doesn’t clean anything. **Action does.**
 You’ve ever used the words *messy*, *disorganized*, or *hot mess* to describe your Aspire system —  
 and you don’t already have a plan for what to do next.
 
-It doesn’t matter how experienced you are or how long you’ve been on the system — anyone can benefit from a year-end tidy.
+It doesn’t matter how experienced you are or how long you’ve been on the system, anyone can benefit from a year-end tidy.
 
 We love and appreciate our Office Admins, but this one’s bigger than an Admin task list.  
 (Please don’t give your Admin the holiday gift of your mess to clean up!)
 
-**Operation Clean Slate** is designed for Aspire users who touch multiple areas of the business — such as a Branch Manager, Office Manager, or Systems Admin.
+**Operation Clean Slate** is designed for Aspire users who touch multiple areas of the business, such as a Branch Manager, Office Manager, or Systems Admin.
 
 > To keep it tight and interactive, registration is capped at **10 companies**.  
 > If registration is full, hop on the waiting list to make sure you’re next in line.
@@ -49,7 +57,7 @@ Week 1 includes a **kickoff call** and a **group work session** to get started.
 
 #### Week 2 – Clear the Chaos
 We’ll share a few more tips for untangling some common complications, but Week 2 is mostly holding space for you to make progress.  
-We’ll be your biggest cheerleaders and answer questions.  
+We’ll be your biggest cheerleaders and answer questions when you get stuck.  
 This week includes **two group work sessions** to roll up your sleeves and get to work.
 
 #### Week 3 – Keep It Clean (For Good)
@@ -68,16 +76,16 @@ Week 3 includes **one final group work session**.
 ## Investment
 **$599 beta pricing**
 
-How much is it worth to you to be handed the cleanup checklist — and some uninterrupted time to get it done?  
+How much is it worth to you to be handed the cleanup checklist and some uninterrupted time to get it done?  
 That’s priceless.
 
 ---
 
 ## Why It Works
-Often with Aspire, the hardest part isn’t knowing what to do — it’s actually *doing* it.  
+Often with Aspire, the hardest part isn’t knowing what to do, it’s actually *doing* it.  
 
 You’re in this situation because you always mean to get around to cleaning it up, but you never do. Right?!  
-That’s human nature, we all do it.
+That’s human nature. We all do it.
 
 Even though we all know that keeping things tidy in Aspire is a good habit, when things get busy, that’s one of the first things to go.
 
