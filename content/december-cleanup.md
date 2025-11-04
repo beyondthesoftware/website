@@ -49,18 +49,18 @@ You’ll receive:
 
 ### Highlights
 
-#### Week 1 – Reality Check
+### Week 1 – Reality Check
 We’ll start by identifying where all the clutter is hiding.  
 We’ll define “done” by building lists in a way that makes it obvious where the finish line is.  
 And since you likely didn’t make the mess all by yourself, we’ll challenge you to get your teammates involved too.  
 Week 1 includes a **kickoff call** and a **group work session** to get started.
 
-#### Week 2 – Clear the Chaos
+### Week 2 – Clear the Chaos
 We’ll share a few more tips for untangling some common complications, but Week 2 is mostly holding space for you to make progress.  
 We’ll be your biggest cheerleaders and answer questions when you get stuck.  
 This week includes **two group work sessions** to roll up your sleeves and get to work.
 
-#### Week 3 – Keep It Clean (For Good)
+### Week 3 – Keep It Clean (For Good)
 The ultimate goal is to not need a year-end cleanup effort in 2026.  
 Now that your system is clean (or at least much cleaner), we’ll document SOPs, healthy habits, and make sure your team knows the expectations to keep the system tidy.  
 Week 3 includes **one final group work session**.
