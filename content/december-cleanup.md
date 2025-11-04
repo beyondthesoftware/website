@@ -10,10 +10,12 @@ weight: 3
 ### Put 2025 to Bed (and Set Up 2026 to Win)
 
 You made it to the end of the year, just barely.  
+
 If your Aspire system feels more like a tangled mess than a well-oiled machine, this December sprint is your reset button.  
 No judgement here, just progress.
 
 **Operation Clean Slate** is your chance to clear the clutter, close the loops, and walk into 2026 without dragging last year’s chaos along for the ride.  
+
 This Momentum Lab sprint gives you all the Ws of cleanup: who, what, when, where, and why.  
 And yes, we’ll throw in the most important one too: *how*.
 
@@ -36,7 +38,6 @@ We love and appreciate our Office Admins, but this one’s bigger than an Admin 
 
 > To keep it tight and interactive, registration is capped at **10 companies**.  
 > If registration is full, hop on the waiting list to make sure you’re next in line.
-
 ---
 
 ## What You’ll Get
