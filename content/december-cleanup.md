@@ -20,7 +20,6 @@ This Momentum Lab sprint gives you all the Ws of cleanup: who, what, when, where
 And yes, we’ll throw in the most important one too: *how*.
 
 Because talking about cleanup doesn’t clean anything. **Action does.**
-  
 | |
 | :--------- |
 | *Due to December holidays, this sprint is compressed to 3 weeks instead of the usual 4. We’ll trade the usual 1:1 session for extra group work sessions so you can actually get things done in real time. Need a little extra support? Just say the word, we’ve got options.* |
