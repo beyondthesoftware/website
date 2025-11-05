@@ -21,27 +21,13 @@ And yes, we’ll throw in the most important one too: *how*.
 
 Because talking about cleanup doesn’t clean anything. **Action does.**
 
-<blockquote>***Due to December holidays, this sprint is compressed to 3 weeks instead of the usual 4. We’ll trade the usual 1:1 session for extra group work sessions so you can actually get things done in real time. Need a little extra support? Just say the word, we’ve got options.***</blockquote>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blockquote Example</title>
-  <style>
-    blockquote p {
-      margin-bottom: 0;
-    }
-  </style>
-</head>
-<body>
-
-  <blockquote>
-    <p><strong><em>Due to December holidays, this sprint is compressed to 3 weeks instead of the usual 4. We’ll trade the usual 1:1 session for extra group work sessions so you can actually get things done in real time. Need a little extra support? Just say the word, we’ve got options.</em></strong></p>
-  </blockquote>
-
-</body>
-</html>
+<blockquote>
+  <strong><em>
+    Due to December holidays, this sprint is compressed to 3 weeks instead of the usual 4.<br><br>
+    We’ll trade the usual 1:1 session for extra group work sessions so you can actually get things done in real time.<br><br>
+    Need a little extra support? Just say the word — we’ve got options.
+  </em></strong>
+</blockquote>
 ---
 
 ## This Sprint Is for You If…
